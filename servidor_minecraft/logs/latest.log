@@ -3239,3 +3239,19 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [03:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
 [03:44:54] [Server thread/WARN]: Luengou moved too quickly! 9.826246452895695,-1.7967356006687112,1.6675969720830324
 [03:47:32] [Server thread/INFO]: Luengou has made the advancement [When in Rome]
+[03:48:20] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[03:48:25] [Server thread/INFO]: Luengou has made the advancement [Sweet Dreams]
+[03:48:26] [Server thread/INFO]: vichoclo777 has made the advancement [Sweet Dreams]
+[03:49:10] [Server thread/INFO]: vichoclo777 has made the advancement [When in Rome]
+[03:49:25] [Server thread/INFO]: Luengou has made the advancement [Suit Up]
+[03:50:50] [Server thread/INFO]: vichoclo777 has made the advancement [Suit Up]
+[03:51:27] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:51:54] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:51:56] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[03:53:45] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[03:54:34] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]
+[03:55:36] [Server thread/INFO]: vichoclo777 was slain by Zombie
+[03:56:20] [Server thread/INFO]: vichoclo777 teleported to 71.5 28.0 296.5 minecraft:overworld
+[03:56:27] [Server thread/INFO]: vichoclo777 was slain by Skeleton
+[03:56:33] [Server thread/INFO]: vichoclo777 teleported to 71.5 28.0 296.5 minecraft:overworld
+[03:56:41] [Server thread/INFO]: [vichoclo777: Teleported vichoclo777 to Luengou]

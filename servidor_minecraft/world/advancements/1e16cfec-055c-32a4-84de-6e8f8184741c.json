@@ -547,7 +547,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-06 02:18:56 +0000",
       "minecraft:spider": "2024-12-06 03:36:33 +0000",
-      "minecraft:zombie": "2024-12-06 03:33:47 +0000"
+      "minecraft:zombie": "2024-12-06 03:33:47 +0000",
+      "minecraft:drowned": "2024-12-06 03:54:09 +0000"
     },
     "done": false
   },
@@ -1065,6 +1066,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_minecraft:oak_planks": "2024-12-06 03:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-06 03:48:25 +0000"
     },
     "done": true
   },
@@ -1782,6 +1789,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 03:47:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_minecraft:iron_ingot": "2024-12-06 03:30:27 +0000"
@@ -1923,6 +1936,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2024-12-06 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-06 03:49:32 +0000"
     },
     "done": true
   },
@@ -2166,6 +2185,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2024-12-06 03:55:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_minecraft:birch_planks": "2024-12-06 03:22:15 +0000"
@@ -2298,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-06 03:55:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 03:30:27 +0000"
@@ -2313,6 +2344,12 @@
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2024-12-06 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-06 03:49:25 +0000"
     },
     "done": true
   },
@@ -2493,6 +2530,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2024-12-06 03:54:40 +0000"
     },
     "done": true
   },
@@ -3462,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-06 03:49:22 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2024-12-06 03:47:03 +0000"
@@ -3503,6 +3552,12 @@
       "has_minecraft:iron_ingot": "2024-12-06 03:30:27 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 03:47:32 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
@@ -3735,6 +3790,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-06 03:46:15 +0000",
+      "bread": "2024-12-06 03:49:09 +0000",
+      "rotten_flesh": "2024-12-06 03:56:59 +0000",
       "cooked_mutton": "2024-12-06 03:30:12 +0000"
     },
     "done": false
